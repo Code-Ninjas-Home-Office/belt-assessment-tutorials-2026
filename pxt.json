@@ -7,6 +7,9 @@
     "files": [
         "main.blocks",
         "main.ts",
+        "yb-belt-assessment.md",
+        "gb-belt-assessment.md",
+        "pb-belt-assessment.md",
         "README.md",
         "assets.json"
     ],
