@@ -1,7 +1,7 @@
 # Orange Belt Assessment
 
 ## Orange Belt Assessment @showdialog 
-To show you are ready for Green Belt, complete the final Prove Yourself of Orange Belt to demonstrate your understanding of the concepts taught in Orange Belt, including sprite kinds, variables, arrays and nested arrays, functions, conditionals in nested block statements, for loops, and the Story extension.
+To show you are ready for Green Belt, complete the final Prove Yourself of Orange Belt to demonstrate your understanding of the concepts taught in Orange Belt, including tilemaps, functions, and function parameters.
 
 Create a project that fulfills all of the requirements on the left side. Click Next and alert a Code Sensei when you are ready to have your project checked.
 
