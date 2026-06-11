@@ -1,7 +1,7 @@
 # Purple Belt Assessment
 
 ## Purple Belt Assessment @showdialog 
-To show you are ready for Brown Belt, complete the Purple Belt Mastery Mission to demonstrate your understanding of the concepts taught in Purple Belt, including sprite kinds, variables, arrays and nested arrays, functions, conditionals in nested block statements, for loops, and the Story extension.
+To show you are ready for Brown Belt, complete the Purple Belt Mastery Mission to demonstrate your understanding of the concepts taught in Purple Belt, including sprite kinds, variables, arrays and nested arrays, functions, conditionals in nested block statements, for loops, and the Scroller and Story extensions.
 
 Create a project that fulfills all of the requirements on the left side. Click Next and alert a Code Sensei when you are ready to have your project checked.
 
