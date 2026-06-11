@@ -1,7 +1,7 @@
 # Yellow Belt Assessment
 
 ## Yellow Belt Assessment @showdialog 
-To show you are ready for Orange Belt, complete the Yellow Belt Mastery Mission to demonstrate your understanding of the concepts taught in White and Yellow Belts, including loops, conditionals, variables, events, and sequencing.
+To show you are ready for Orange Belt, complete the Yellow Belt Mastery Mission to demonstrate your understanding of the concepts taught in Yellow Belt, including loops, conditionals, variables, events, and sequencing.
 
 Create a project that fulfills all of the requirements on the left side. Click Next and alert a Code Sensei when you are ready to have your project checked.
 
