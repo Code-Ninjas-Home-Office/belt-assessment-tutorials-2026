@@ -1,7 +1,7 @@
 # Green Belt Assessment
 
 ## Green Belt Assessment @showdialog 
-To show you are ready for Orange Belt, complete the Green Belt Mastery Mission to demonstrate your understanding of the concepts taught in Orange and Green Belts, including tilemaps, arrays, advanced conditionals, nested loops, functions, and project extensions like Tile Util, Scrolling Background, and Status Bar.
+To show you are ready for Orange Belt, complete the Green Belt Mastery Mission to demonstrate your understanding of the concepts taught in Green Belt, including tilemaps, arrays, advanced conditionals, nested loops, functions, and project extensions like Tile Util, Scrolling Background, and Status Bar.
 
 Create a project that fulfills all of the requirements on the left side. Click Next and alert a Code Sensei when you are ready to have your project checked.
 
