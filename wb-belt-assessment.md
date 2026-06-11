@@ -1,7 +1,7 @@
 # White Belt Assessment
 
 ## White Belt Assessment @showdialog 
-To show you are ready for Yellow Belt, complete the final Prove Yourself of White Belt to demonstrate your understanding of the concepts taught in White Belt, including sprite kinds, variables, arrays and nested arrays, functions, conditionals in nested block statements, for loops, and the Story extension.
+To show you are ready for Yellow Belt, complete the final Prove Yourself of White Belt to demonstrate your understanding of the concepts taught in White Belt, including creating sprites, sprite movement, and events.
 
 Create a project that fulfills all of the requirements on the left side. Click Next and alert a Code Sensei when you are ready to have your project checked.
 
